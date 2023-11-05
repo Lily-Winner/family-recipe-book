@@ -1,0 +1,45 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&family=Edu+TAS+Beginner:wght@400;500;600;700&family=Gloria+Hallelujah&family=Karla:wght@400;700&family=Roboto:wght@300;400;700;900&family=Satisfy&display=swap');*/
+
+* {
+    /*background-color: rgb(39, 39, 39);*/
+    letter-spacing: 1px;
+    font-weight: 200;
+    /*font-family: 'Edu TAS Beginner';*/
+}
+
+:root {
+    --heading-2-color: #4BC9BF;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2,
+h3,
+h4 {
+    letter-spacing: 2px;
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: var(--heading-2-color);
+}
+
+h3 {
+    font-size: 1.3rem;
+    color: #FB8D79;
+}
+
+h4 {
+    color: #BD5844;
+}
+
+.font-big{
+    font-size: 2rem;
+}
+.container {
+    /*background: rgb(119, 119, 119);
+    padding: 30px;
+    border-radius: 25px;*/
+}
