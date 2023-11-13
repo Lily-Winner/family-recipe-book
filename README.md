@@ -14,7 +14,7 @@
     5. Tuna
 3. [SALAD](#salad) :green_apple:
 4. [MAIN](#main) :poultry_leg:
-    1. Chicken-buckwheat
+    1. [Chicken-buckwheat](#🍗-chicken-buckwheat-🍗)
     2. Mega wings
     3. [Meatballs in chard - Lemon sauce](#🍋-meatballs-in-chard-lemon-sauce-🍋)
 5. [PICKLES](#pickles) :tomato: 
@@ -79,7 +79,28 @@ For sauce:
 6. Form meatballs of the desired size. Fry until brown on both sides and set aside.
 7. **The match:** Arrange the meatballs in the pot, in the center place the lower half of the head of garlic (with the open part facing down). Close the lid, bring to a boil and lower the heat. Cook for another 15-20 min. At the end, open the pot and sprinkle some lemon zest.
 
+###  :poultry_leg: Chicken-buckwheat :poultry_leg:
 
+#### Ingredients:
+<div class=container>
+ 
+* Chicken legs
+* Pepper,  Salt,  Paprika, Dry garlic. or any spices to taste.
+* Garlic
+* Olive oil 
+* Buckwheat/ rice  
+* Butter (~ 2-3 Tbsp)
+* Water (Twice as much as cereal)
+</div>
+
+#### Preparation:
+
+1. Marinate chicken legs in spices.
+2. In a baking tray, put cereal 1:2 water, fresh finely chopped garlic, add a little salt.
+3. Lay out the chicken legs.
+5. Randomly add a few pieces of butter.
+6. Cover a baking tray with foil. Bake for 45 minutes  at 200 degrees
+7. Remove the foil and bake 15 more.
 
 ## PICKLES 
 
