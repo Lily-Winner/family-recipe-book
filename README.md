@@ -16,7 +16,7 @@
 4. [MAIN](#main) :poultry_leg:
     1. [Chicken-buckwheat](#🍗-chicken-buckwheat-🍗)
     2. Mega wings
-    3. [Meatballs in chard - Lemon sauce](#🧆🍋-meatballs-in-chard-lemon-sauce-🍋🧆)
+    3. [Meatballs in chard - Lemon sauce]((#🍋-meatballs-in-chard-lemon-sauce-🍋))
 5. [PICKLES](#pickles) :tomato: 
     1. The Garlik SALO
     2. The Garlik Tamatoes
