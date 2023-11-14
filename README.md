@@ -16,7 +16,7 @@
 4. [MAIN](#main) :poultry_leg:
     1. [Chicken-buckwheat](#🍗-chicken-buckwheat-🍗)
     2. Mega wings
-    3. [Meatballs in chard - Lemon sauce]((#🍋-meatballs-in-chard-lemon-sauce-🍋))
+    3. [Meatballs in chard - Lemon sauce](#🍋-meatballs-in-chard-lemon-sauce-🍋)
 5. [PICKLES](#pickles) :tomato: 
     1. The Garlik SALO
     2. The Garlik Tamatoes
@@ -47,7 +47,7 @@
 
 #### Preparation:
 
-1. Cook in boiling water half of the amount of tuna after you have separated it from the oil together with 2 whole medium carrots, 2 whole onions, 2 potatoes cut into squares, a pinch of pepper, salt and sugar, a tablespoon of red paprika and rice. Squeeze a lemon and cook for 30 min.
+1. Cook in boiling water half of the amount of tuna after you have separated it from the oil together with 2 whole medium carrots, 2 whole onions, 2 potatoes cut into squares, a pinch of pepper, salt and sugar, a tablespoon of red paprika and r. Squeeze a lemon and cook for 30 min.
 2. Add the rest of the tuna and cook for another 20 minutes.
 
 ### :hatched_chick::stew: Chicken Soup :stew::hatched_chick:
