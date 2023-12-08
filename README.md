@@ -5,30 +5,73 @@
 ## Contants
 
 1. [SNACKS](#snacks) :rice_cracker:
-    1. [Garlic spread](#garlic-spread)
+    1. [Garlic spread](#🧄🌿-garlic-spread-🌿🧄)
+    1. [Tomato Appetizer](#🍅🌱-tomato-appetizer-🌱🍅)
 2. [SOUP](#soup):stew:
     1. [Tuna Spicy](#🔥🐟-tuna-spicy-🐟🔥)
-    2. [Chicken Soup](#🐥-chicken-soup-🐥)
-    3. The Mashroom
-    4. Tuna
-    5. Tuna
-3. [SALAD](#salad) :green_apple:
-4. [STEW](#stew) 
-    1. [Non-mucous okra stew](#non-mucous-okra-stew)
+    2. [Chicken Soup](#🐔🍲-chicken-soup-🍲🐔)
+    
+3. [SALAD](#salad-🥬) :leafy_green:
+    1. [Chinese Cucamber Salad](#🥒-chinese-cucamber-salad-🥒)
+4. [STEW](#🥘-non-mucous-okra-stew-🥘) 
+    1. [Non-mucous okra stew](#🥘-non-mucous-okra-stew-🥘)
 5. [MAIN](#main) :poultry_leg:
     1. [Chicken-buckwheat](#🍗-chicken-buckwheat-🍗)
-    2. Mega wings
-    3. [Meatballs in Chard - Lemon sauce](#🍋-meatballs-in-chard-lemon-sauce-🍋)
+    2. [Mega wings](#🐥-mega-wings-🐥)
+    3. [Meatballs in Chard - Lemon sauce](#🧆🍋-meatballs-in-chard-lemon-sauce-🍋🧆)
 6. [PICKLES](#pickles) :tomato: 
-    1. The Garlik SALO
-    2. The Garlik Tamatoes
-    3. Lily's Father Adjika
+    
 6. DRINKS :cocktail: 
 7. DESERTS :doughnut:
 
 ## SNACKS 
 
 ### :garlic::herb: Garlic spread :herb::garlic:
+
+#### Ingredients:
+<div class=container>
+ 
+* 500 g garlic
+* Bunch of thyme/rosemary
+* 350 ml olive oil/ vegetable oil
+</div>
+
+#### Preparation:
+
+1.Peel the garlic.
+Then place it in a small saucepan or baking
+sheet, add the thyme sprigs and pour in
+either vegetable or olive oil (not extra virgin)
+until it completely covers the ingredients.
+2.Cook either over low heat or in the oven
+until the garlic is lightly golden (at 120
+degrees, at least 1.5 hours).
+Remove the thyme, place the garlic in a jar and
+add oil. Ready!
+
+### :tomato::seedling: Tomato appetizer :seedling::tomato:
+
+#### Ingredients:
+<div class=container>
+ 
+* Fresh basil  - 20 g
+* Tomatoes - 800 g
+* Garlic - 15 g
+* Oregano  - 0.5 g (pinch)
+* Salt - 1 Tsp (without a slide =10 g)
+* Sugar - 1 Tsp (heaped = 15 g)
+* Lemon juice - 10 ml (a third of a small lemon)
+* Olive or vegetable oil - 25 ml
+
+</div>
+
+#### Preparation:
+
+1. Cut the tomatoes into strips. Chop the basils
+and garlic.
+2. Add salt, oregano, basil, sugar, lemon juice to the garlic (the amount depends on the taste of your tomatoes). Mix everything well.
+3. Place the tomatoes in a separate container and pour the resulting mixture over it, stir well. Cover with a lid and refrigerate (preferably until
+the next day, but a few minutes is fine). When serving, add thinly sliced ​​onion.  
 
 ## SOUP 
 
@@ -54,9 +97,32 @@
 
 ### :chicken::stew: Chicken Soup :stew::chicken:
 
-## SALAD :cucumber: :cucumber: :cucumber: 
+### ...
+
+## SALAD :leafy_green:
+
+### :cucumber: Chinese Cucamber Salad :cucumber:
+
+#### Ingredients:
+<div class=container>
+ 
+* Cucumbers 500 g
+* Garlic 4 cloves
+* Sesame oil 3 tbsp.
+* Soy sauce 4 tbsp
+* Cilantro  1 tbsp (chopped)
+* Red pepper to taste / Chili oil
+* Chainese black vinegar or rice vinegar (Optionaly) ~ 4 Tsp
+</div>
+
+#### Preparation:
+
+1. Cut off the edges of the cucumbers, put them in a bag and beat them with a rolling pin or a hatchet. Then cut into pieces.
+2. Finely chop the garlic and cilantro. Add all the spices and garlic to the bowl with the cucumbers, stir and leave for 10 minutes. When serving, you can garnish with sesame seeds.
+
 
 ## STEW 
+
 ### :shallow_pan_of_food: Non-mucous okra stew :shallow_pan_of_food:
 
 #### Ingredients:
